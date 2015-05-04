@@ -1,0 +1,6 @@
+c:\users\johny fokusnika\documents\visual studio 2013\Projects\dm-5\dm-5\bin\Debug\dm-5.exe.config
+c:\users\johny fokusnika\documents\visual studio 2013\Projects\dm-5\dm-5\bin\Debug\dm-5.exe
+c:\users\johny fokusnika\documents\visual studio 2013\Projects\dm-5\dm-5\bin\Debug\dm-5.pdb
+c:\users\johny fokusnika\documents\visual studio 2013\Projects\dm-5\dm-5\obj\Debug\dm-5.csprojResolveAssemblyReference.cache
+c:\users\johny fokusnika\documents\visual studio 2013\Projects\dm-5\dm-5\obj\Debug\dm-5.exe
+c:\users\johny fokusnika\documents\visual studio 2013\Projects\dm-5\dm-5\obj\Debug\dm-5.pdb

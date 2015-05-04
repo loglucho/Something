@@ -1,0 +1,6 @@
+c:\users\johny fokusnika\documents\visual studio 2013\Projects\dm-3\dm-3\bin\Debug\dm-3.exe.config
+c:\users\johny fokusnika\documents\visual studio 2013\Projects\dm-3\dm-3\bin\Debug\dm-3.exe
+c:\users\johny fokusnika\documents\visual studio 2013\Projects\dm-3\dm-3\bin\Debug\dm-3.pdb
+c:\users\johny fokusnika\documents\visual studio 2013\Projects\dm-3\dm-3\obj\Debug\dm-3.csprojResolveAssemblyReference.cache
+c:\users\johny fokusnika\documents\visual studio 2013\Projects\dm-3\dm-3\obj\Debug\dm-3.exe
+c:\users\johny fokusnika\documents\visual studio 2013\Projects\dm-3\dm-3\obj\Debug\dm-3.pdb

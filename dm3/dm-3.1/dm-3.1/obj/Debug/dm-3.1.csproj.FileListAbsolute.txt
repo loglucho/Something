@@ -1,0 +1,5 @@
+c:\users\johny fokusnika\documents\visual studio 2013\Projects\dm-3.1\dm-3.1\bin\Debug\dm-3.1.exe.config
+c:\users\johny fokusnika\documents\visual studio 2013\Projects\dm-3.1\dm-3.1\bin\Debug\dm-3.1.exe
+c:\users\johny fokusnika\documents\visual studio 2013\Projects\dm-3.1\dm-3.1\bin\Debug\dm-3.1.pdb
+c:\users\johny fokusnika\documents\visual studio 2013\Projects\dm-3.1\dm-3.1\obj\Debug\dm-3.1.exe
+c:\users\johny fokusnika\documents\visual studio 2013\Projects\dm-3.1\dm-3.1\obj\Debug\dm-3.1.pdb
