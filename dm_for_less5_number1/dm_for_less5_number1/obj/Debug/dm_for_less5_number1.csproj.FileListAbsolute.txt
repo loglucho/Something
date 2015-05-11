@@ -1,0 +1,6 @@
+c:\users\johny fokusnika\documents\visual studio 2013\Projects\dm_for_less5_number1\dm_for_less5_number1\bin\Debug\dm_for_less5_number1.exe.config
+c:\users\johny fokusnika\documents\visual studio 2013\Projects\dm_for_less5_number1\dm_for_less5_number1\bin\Debug\dm_for_less5_number1.exe
+c:\users\johny fokusnika\documents\visual studio 2013\Projects\dm_for_less5_number1\dm_for_less5_number1\bin\Debug\dm_for_less5_number1.pdb
+c:\users\johny fokusnika\documents\visual studio 2013\Projects\dm_for_less5_number1\dm_for_less5_number1\obj\Debug\dm_for_less5_number1.csprojResolveAssemblyReference.cache
+c:\users\johny fokusnika\documents\visual studio 2013\Projects\dm_for_less5_number1\dm_for_less5_number1\obj\Debug\dm_for_less5_number1.exe
+c:\users\johny fokusnika\documents\visual studio 2013\Projects\dm_for_less5_number1\dm_for_less5_number1\obj\Debug\dm_for_less5_number1.pdb
